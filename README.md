@@ -1,2 +1,6 @@
-# mz-hax-guide-archive
-MZHax Archive
+# Description
+milanzombieHAX guide archive for everyone.
+# You can...
+use this with giving credit to Kirb#7203
+# You can't...
+use this without giving credit to Kirb#7203
